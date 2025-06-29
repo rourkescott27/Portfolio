@@ -1,7 +1,9 @@
 const App = () => {
   return (
     <main>
-      <div>Welcome to my Portfolio!</div>
+      <div>
+        <h1 className="text-3xl underline">Welcome to my Portfolio!</h1>
+      </div>
     </main>
   );
 };
